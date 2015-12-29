@@ -2,6 +2,14 @@
 
 Copyright (c) 2016 Robin Luiten
 
+## Deprecated
+This package has been replaced by ElmTextSearch package.
+* http://package.elm-lang.org/packages/rluiten/lunrelm/latest
+
+So this package will no longer be updated or maintained.
+
+## Original documentation Below here.
+
 This is a full text indexing engine inspired by lunr.js and written in Elm language.
 See http://lunrjs.com/ for lunr.js
 
