@@ -4,7 +4,7 @@ Copyright (c) 2016 Robin Luiten
 
 ## Deprecated
 This package has been replaced by ElmTextSearch package.
-* http://package.elm-lang.org/packages/rluiten/lunrelm/latest
+* http://package.elm-lang.org/packages/rluiten/elm-text-search/latest
 
 So this package will no longer be updated or maintained.
 
