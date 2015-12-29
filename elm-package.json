@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "summary": "Deprecated Full text index engine see ElmTextSearch",
     "repository": "https://github.com/rluiten/lunrelm.git",
     "license": "BSD3",
